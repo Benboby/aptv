@@ -10031,5 +10031,7 @@ http://live.aptvapp.com/live/huya/99724
 http://live.aptvapp.com/live/huya/321
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1051/59/08dbf7a0e9803f9155d379a1e2a7f6_180_135.jpg?1592977942" group-title="王者荣耀", 柱子
 http://live.aptvapp.com/live/huya/451268
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1082/48/2849204909c2391b6d333ced23a4d9_180_135.jpg?1693026869" group-title="QQ飞车", 官方赛事
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1082/48/2849204909c2391b6d333ced23a4d9_180_135.jpg?1693026869" group-title="QQ飞车", 飞车赛事
 http://live.aptvapp.com/live/huya/660219
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1010/66/6aba6b4323ab3c52960e7bf169d08e_180_135.jpg?1696750949" group-title="王者荣耀", 王者赛事
+http://live.aptvapp.com/live/huya/660002
